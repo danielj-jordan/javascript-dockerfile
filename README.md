@@ -6,9 +6,9 @@ Exercism.
 
 This container includes:
 * ubuntu base container
-* node 4.x
-* jasmine
-* eslint with all the required plug-ins
+* node 8.x
+* jest
+* eslint
 
 ###
 Prerequisites
